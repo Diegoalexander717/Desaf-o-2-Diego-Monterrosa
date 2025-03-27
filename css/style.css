@@ -1,0 +1,39 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+  
+    background-color: bisque;
+}
+
+nav a{
+color:white;
+text-decoration: none;
+}
+
+nav {
+    background-color: rgb(194, 136, 12);
+    justify-content:space-around;
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    
+}
+nav img{
+  width:150px;
+  border-radius:150px;
+}
+
+nav a:hover{
+  text-decoration: underline;
+  color: black;
+}
+ header{
+  font-family: sans-serif;
+ }
+
+ main{
+  font-family: sans-serif;
+    text-align: center;
+}
+
